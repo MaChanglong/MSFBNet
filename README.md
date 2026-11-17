@@ -4,7 +4,9 @@ Medical image segmentation is crucial in disease detection and diagnosis, especi
 
 # Architecture
 
-![MSFB-Net Architecture](model/architecture.png)
+<p align="center">
+  <img src="model/Architecture.png" width="850">
+</p>
 # Citations
 If you find this work helpful, please cite:
 ```bibtex
