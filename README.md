@@ -9,7 +9,7 @@ Medical image segmentation is crucial in disease detection and diagnosis, especi
 </p>
 
 # Datasets
-The datasets used in this study follow those provided in the [CSCA U-Net](https://github.com/xiaolanshu/CSCA-U-Net) repository. Please refer to the original repository for dataset details and preparation instructions.
+The datasets used in this study follow those provided in the [CSCA U-Net](https://github.com/xiaolanshu/CSCA-U-Net) repository. 
 
 # Citations
 If you find this work helpful, please cite:
